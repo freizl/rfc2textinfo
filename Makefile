@@ -1,4 +1,6 @@
+## check out https://github.com/freizl/xml2rfc and setup venv first
 VENV := $(HOME)/Downloads/github/xml2rfc/.venv
+
 PYTHON := $(VENV)/bin/python3
 
 .PHONY: all sync clean
